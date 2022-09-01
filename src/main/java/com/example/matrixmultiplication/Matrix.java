@@ -1,7 +1,5 @@
 package com.example.matrixmultiplication;
 
-import java.util.Scanner;
-
 public class Matrix {
     private final int row;
     private final int col;
