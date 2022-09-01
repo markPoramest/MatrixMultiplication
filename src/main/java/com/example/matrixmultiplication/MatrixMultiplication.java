@@ -1,8 +1,5 @@
 package com.example.matrixmultiplication;
 
-
-import java.util.Scanner;
-
 public class MatrixMultiplication {
     private final Matrix matrix1;
     private final Matrix matrix2;
